@@ -1,0 +1,11 @@
+.containerContato {
+    background-color: rgb(224, 228, 228);
+    display: flex;
+    justify-content: center;
+}
+
+.contato-banner {
+    display: grid;
+    align-items: center;
+    min-height: 250px;
+}

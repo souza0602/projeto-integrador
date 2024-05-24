@@ -1,0 +1,79 @@
+.bvegan-logonome {
+    color: #4ba74b;
+}
+
+.bvegan-logonomered {
+    color: #d15e5e;
+}
+
+.bvegan-logonomered2 {
+    background-color: red;
+}
+
+
+.content-welcome {
+    line-height: 30px;
+    text-align: justify;
+    font-size: 1.1rem;
+}
+
+.section1 {
+    transition-duration: 0.8s;
+}
+
+.justify-paragrafo {
+    text-align: justify;
+}
+
+.section1:hover {
+    transform: scale(1.1);
+}
+
+.cont-final {
+    display: grid;
+    justify-content: center;
+}
+
+.paragraph {
+    font-weight: 500;
+}
+
+.paragraph2 {
+    font-weight: 500;
+    color: #4ba74b;
+}
+
+.paragraph-home-final {
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.info-produto-home {
+    font-weight: 400;
+}
+
+.cards-home {
+    height: 300px;
+
+}
+
+
+.ifood {
+    min-height: 280px;
+    background-color: #e9e8e8;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ifood-teste {
+    opacity: 1;
+    transition: transform 0.5s;
+    opacity: 0.5s;
+}
+
+.ifood-teste:hover {
+    opacity: 1;
+    transform: scale(1.3);
+}

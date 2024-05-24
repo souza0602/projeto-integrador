@@ -1,0 +1,38 @@
+.rodape {
+    min-height: 210px;
+    background-color: #5B1607;
+}
+
+.paragraph-rodape {
+    color: white;
+}
+
+.links-rodape {
+    color: antiquewhite;
+}
+
+.nome-rodape {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.vermelho2 {
+    color: #D15E5E !important;
+}
+
+.sobre-rodape {
+    color: white;
+}
+
+.li-items {
+    list-style: none;
+}
+
+.li-items a {
+    color: antiquewhite;
+}
+
+.li-items a:hover {
+    color: black;
+    transition-duration: 0.5s;
+}

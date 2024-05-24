@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,500&display=swap');
+
+.containerColorBvegan {
+    background-color: rgb(224, 228, 228);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cont-bvegan {
+    text-align: justify;
+    font-size: 1.2rem;
+    line-height: 29px;
+    font-family: "Open Sans", sans-serif;   
+    
+}
+
+.font-bvegan {
+    color: rgb(75, 167, 75);
+    font-size: 1.2rem;
+  }

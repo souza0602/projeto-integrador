@@ -1,0 +1,18 @@
+.infoProduto-Cardapio {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.infoProduto-CardapioValor {
+    color: #d15e5e;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.img-cardapio1 {
+    transition-duration: 0.7s;
+}
+
+.img-cardapio1:hover {
+    transform: scale(1.06);
+}
