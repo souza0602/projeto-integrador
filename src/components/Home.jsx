@@ -70,9 +70,9 @@ function Home() {
           <div className="col-sm-8 p-0 section1">
             <img src={sectionBanner1} alt="" />
           </div>
-          <div className="col-sm-4 section1-content p-0">
+          <div className="col-sm-4 section1-content p-0 teste43">
             <div class="d-flex align-items-center" style={{ height: "100%" }}>
-              <div className='d-block w-100'>
+              <div className=''>
                 <h5>Conheça nossa linha de doces</h5>
                 <p className='justify-paragrafo'>
                   Brigadeiros deliciosos, trufas, tortas, brownies recheados, bombons e muito mais! Perfeitos para um café no meio da tarde para tornar o seu dia, seu evento ou aniversário inesquecível, sempre ressaltando, todos são cruelty free!</p>
@@ -85,7 +85,7 @@ function Home() {
         <div className="row">
           <div className="col-sm-4 p-0 section1-content">
             <div class="d-flex align-items-center" style={{ height: "100%" }}>
-              <div className='d-block w-100'>
+              <div className='d-block'>
                 <h5>Conheça nossa linha de doces</h5>
                 <p className='justify-paragrafo'>
                   Brigadeiros deliciosos, trufas, tortas, brownies recheados, bombons e muito mais! Perfeitos para um café no meio da tarde para tornar o seu dia, seu evento ou aniversário inesquecível, sempre ressaltando, todos são cruelty free!</p>
